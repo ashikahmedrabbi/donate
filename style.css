@@ -1,0 +1,198 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.bg {
+    background-image: url(img/bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.text {
+
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 70px;
+
+}
+
+.text h1 {
+
+    font-weight: 600;
+    font-size: 60px;
+
+
+}
+
+.text button {
+    color: white;
+    padding: 10px;
+    background-color: #FF5959;
+    border: none;
+    margin: 15px;
+
+}
+
+.text .btnone a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.second_part {
+    text-align: center;
+    color: rgb(41, 41, 41);
+    padding: 70px;
+}
+
+.taka {
+    float: left;
+    margin: 3%;
+    width: 13%;
+
+
+}
+
+.colortaka {
+    border: 2px solid rgb(214, 106, 106);
+    color: rgb(214, 106, 106);
+    padding: 10px 5px 10px 5px;
+
+}
+
+.OtherAmount {
+    text-align: center;
+    margin: 90px;
+    color: #1d2230;
+
+}
+
+.OtherAmount button {
+    color: white;
+    padding: 10px;
+    background-color: #FF5959;
+    border: none;
+    margin: 15px;
+
+}
+
+.OtherAmount .btntwo a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.Choose-Us-section {
+    height: 350px;
+    border: 2px tomato solid;
+    border-radius: 20px;
+
+}
+
+.Choose-Us {
+
+    font-size: 35px;
+    color: grey;
+}
+
+.Choose-Us h3 {
+    text-align: center;
+    font-size: 35px;
+}
+
+.Choose-Us p {
+    color: grey;
+}
+
+.choose-us-text {
+    height: 55%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 2%;
+    width: 20%;
+    border-radius: 15px;
+    border: 1px grey solid;
+}
+
+.Contact-us {
+    height: 600px;
+    margin: 5%;
+}
+
+.Contact-us-text {
+    margin: 3%;
+
+}
+
+.orange-color {
+    color: #FB8B47;
+}
+
+.shadow-part {
+    height: 400px;
+    margin-bottom: 15%;
+}
+
+.our-gorl {
+
+    height: 90%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    width: 25%;
+    border-radius: 15px;
+
+}
+
+.our-gorl img {
+    width: 90px;
+    border: 5px white solid;
+    border-radius: 20px;
+    margin-top: 5%;
+
+}
+
+.our-gorl h3 {
+    font-size: 30px;
+}
+
+.gorl {
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+.gorl h2 {
+    font-size: 40px;
+    color: grey;
+}
+
+.colorone {
+    background-color: #c5d9dbfa;
+}
+
+.colortwo {
+    background-color: #c4e9cfec;
+}
+
+.colortee {
+    background-color: #9becdf;
+}
+
+.footer-area {
+    background-color: black;
+    width: 100%;
+    height: 250px;
+
+}
+
+.footer-area h1 {
+    text-align: center;
+    color: white;
+    padding-top: 5%;
+}
+
+.footer-area p {
+    text-align: center;
+    color: white;
+}
